@@ -8,7 +8,7 @@ Information here can be useful for you if you are
 ## How to use the CLI
 We provided a minimalistic CLI tool with the database to work as an example and if you want to script things without hammering our API :heart:
 ### How to install
-It is not the 90 grandpa, stop installing utils writen by 2 randos! Use docker
+It is not the 90s grandpa, stop installing utils writen by 2 randos! Use docker
 ### Getting reports
 - You can get all exploits and exploitation reports related to vulnerability with its description in a nice table: `docker run inthewild/inthewild reports CVE-2021-30666`
 - You can get just the exploits: `docker run inthewild/inthewild exploits CVE-2021-22986`
