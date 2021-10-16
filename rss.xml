@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inthewild.io</title>
+    <link>https://inthewild.io</link>
+    <description>inTheWild is community-driven opensource database of vulnerabilities exploited in the wild. This is our feed to keep you updated.</description>
+  
+    
+    <item>
+    <title>CVE-2021-31956 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-31956</link>
+    <pubDate>2021-04-14T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-21224 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-21224</link>
+    <pubDate>2021-04-20T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2018-7602 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2018-7602</link>
+    <pubDate>2021-04-20T12:52:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2010-5326 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2010-5326</link>
+    <pubDate>2021-04-20T18:41:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2017-12637 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2017-12637</link>
+    <pubDate>2021-04-20T19:31:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30661 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30661</link>
+    <pubDate>2021-04-26T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-22893 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-22893</link>
+    <pubDate>2021-04-28T17:52:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-28663 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-28663</link>
+    <pubDate>2021-05-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-28664 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-28664</link>
+    <pubDate>2021-05-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30663 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30663</link>
+    <pubDate>2021-05-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30665 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30665</link>
+    <pubDate>2021-05-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30666 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30666</link>
+    <pubDate>2021-05-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-28550 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-28550</link>
+    <pubDate>2021-05-11T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30551 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30551</link>
+    <pubDate>2021-06-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-33742 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-33742</link>
+    <pubDate>2021-06-03T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2011-3192 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2011-3192</link>
+    <pubDate>2021-06-06T11:15:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-31199 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-31199</link>
+    <pubDate>2021-06-08T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-31201 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-31201</link>
+    <pubDate>2021-06-08T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30761 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30761</link>
+    <pubDate>2021-06-14T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30762 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30762</link>
+    <pubDate>2021-06-14T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-33739 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-33739</link>
+    <pubDate>2021-06-14T07:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30554 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30554</link>
+    <pubDate>2021-06-15T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2009-2265 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2009-2265</link>
+    <pubDate>2021-06-24T20:15:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2018-18472 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2018-18472</link>
+    <pubDate>2021-06-25T10:15:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-35941 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-35941</link>
+    <pubDate>2021-07-06T14:51:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30563 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30563</link>
+    <pubDate>2021-07-12T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-31979 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-31979</link>
+    <pubDate>2021-07-13T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-33771 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-33771</link>
+    <pubDate>2021-07-13T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-34448 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-34448</link>
+    <pubDate>2021-07-13T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-34527 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-34527</link>
+    <pubDate>2021-07-16T07:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2015-1494 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2015-1494</link>
+    <pubDate>2021-07-20T12:23:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30713 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30713</link>
+    <pubDate>2021-07-21T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2020-13125 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-13125</link>
+    <pubDate>2021-07-21T11:39:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2020-26876 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-26876</link>
+    <pubDate>2021-07-21T11:39:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2010-0806 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2010-0806</link>
+    <pubDate>2021-07-23T15:04:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2010-3962 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2010-3962</link>
+    <pubDate>2021-07-23T15:12:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30807 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30807</link>
+    <pubDate>2021-07-26T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2019-9978 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-9978</link>
+    <pubDate>2021-07-30T14:15:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-36948 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-36948</link>
+    <pubDate>2021-08-10T07:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30116 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30116</link>
+    <pubDate>2021-08-19T16:22:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-38154 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-38154</link>
+    <pubDate>2021-08-30T10:53:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30632 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30632</link>
+    <pubDate>2021-09-08T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30633 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30633</link>
+    <pubDate>2021-09-08T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30657 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30657</link>
+    <pubDate>2021-09-08T15:30:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30858 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30858</link>
+    <pubDate>2021-09-13T00:00:00.000Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-21220 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-21220</link>
+    <pubDate>2021-09-28T16:39:58.734Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30860 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30860</link>
+    <pubDate>2021-09-28T16:39:58.734Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-37973 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-37973</link>
+    <pubDate>2021-09-28T16:39:58.734Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30869 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30869</link>
+    <pubDate>2021-09-28T16:39:58.734Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-24175 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-24175</link>
+    <pubDate>2021-09-28T17:20:34.626Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-21206 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-21206</link>
+    <pubDate>2021-09-28T18:20:00.188Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-28310 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-28310</link>
+    <pubDate>2021-09-28T19:14:19.497Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-31955 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-31955</link>
+    <pubDate>2021-09-28T19:49:02.309Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-37975 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-37975</link>
+    <pubDate>2021-09-30T19:14:03.999Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-37976 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-37976</link>
+    <pubDate>2021-09-30T19:14:03.999Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-41773 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-41773</link>
+    <pubDate>2021-10-07T05:16:18.348Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-30883 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-30883</link>
+    <pubDate>2021-10-11T19:13:30.301Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-40449 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-40449</link>
+    <pubDate>2021-10-12T17:20:31.919Z</pubDate>
+    </item>
+    
+ </channel>
+</rss>
