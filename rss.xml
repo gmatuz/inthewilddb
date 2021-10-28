@@ -354,5 +354,17 @@
     <pubDate>2021-10-12T17:20:31.919Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-38000 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-38000</link>
+    <pubDate>2021-10-28T21:16:27.475Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-38003 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-38003</link>
+    <pubDate>2021-10-28T21:16:27.475Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
