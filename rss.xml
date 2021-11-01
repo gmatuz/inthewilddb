@@ -366,5 +366,11 @@
     <pubDate>2021-10-28T21:16:27.475Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-42258 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-42258</link>
+    <pubDate>2021-11-01T16:28:05.867Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
