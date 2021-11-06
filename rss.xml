@@ -630,5 +630,11 @@
     <pubDate>2021-11-05T00:56:19.540Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-40444 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-40444</link>
+    <pubDate>2021-11-06T12:26:44.291Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
