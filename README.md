@@ -1,5 +1,6 @@
 # Use the verified, up-to-date data of [inthewild.io](inthewild.io) directly
 inTheWild is a community driven database and platform to help your vulnerability triage
+If you just need the exploitation information don't wast your time here hit [inthewild.io/api/exploitation](https://inthewild.io/api/exploitation) this export includes all vulnerability data, exploits and exploitation reports
 ## Who? How?
 Information here can be useful for you if you are 
 - In ops or vulnerability management and you want to know when to panic: sign up to RSS feed and add it to you notification list (e.g. Slack channel)
@@ -8,7 +9,7 @@ Information here can be useful for you if you are
 ## How to use the CLI
 We provided a minimalistic CLI tool with the database to work as an example and if you want to script things without hammering our API :heart:
 ### How to install
-It is not the 90s grandpa, stop installing utils writen by 2 randos! Use docker
+It is not the 90s grandpa, stop installing utils writen by 3 randos! Use docker
 ### Getting reports
 - You can get all exploits and exploitation reports related to vulnerability with its description in a nice table: `docker run inthewild/inthewild reports CVE-2021-30666`
 - You can get just the exploits: `docker run inthewild/inthewild exploits CVE-2021-22986`
@@ -16,7 +17,10 @@ It is not the 90s grandpa, stop installing utils writen by 2 randos! Use docker
 - _hey man, your table is dope but I heard JSON is cooler!_: `docker run inthewild/inthewild reports CVE-2021-30666 --no-format-cli`
 - _this is confusing_: you may always add `--help` if you are getting lost
 ## How can I help out?
-- Contribute with reports of exploitation inTheWild or exploits you misss
+- Contribute with reports of exploitation inTheWild or exploits you miss something
 - Help triage said reports
 - Send PR for your usecase
 - Buy us a coffee
+
+## Credit
+[Bobby](https://www.linkedin.com/in/bdonchev/), [Marci](https://www.linkedin.com/in/m%C3%A1rton-szab%C3%B3-256a4014a/)
