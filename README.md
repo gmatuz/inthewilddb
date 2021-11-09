@@ -1,4 +1,4 @@
-# Use the verified, up-to-date data of [inthewild.io](inthewild.io) directly
+# Use the verified, up-to-date data of [inthewild.io](https://inthewild.io) directly
 inTheWild is a community driven database and platform to help your vulnerability triage.  
 If you just need the exploitation information don't waste your time here, hit [inthewild.io/api/exploited](https://inthewild.io/api/exploited) this export includes all vulnerability data, exploits and exploitation reports
 ## Who? How?
