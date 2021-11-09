@@ -636,5 +636,17 @@
     <pubDate>2021-11-06T12:26:44.291Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-42292 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-42292</link>
+    <pubDate>2021-11-09T18:21:10.624Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-42321 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-42321</link>
+    <pubDate>2021-11-09T18:21:10.624Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
