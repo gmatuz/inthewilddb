@@ -648,5 +648,23 @@
     <pubDate>2021-11-09T18:21:10.624Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-35394 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-35394</link>
+    <pubDate>2021-11-15T00:56:57.223Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-29003 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-29003</link>
+    <pubDate>2021-11-15T00:56:57.223Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-42071 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-42071</link>
+    <pubDate>2021-11-15T00:56:57.223Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
