@@ -690,5 +690,11 @@
     <pubDate>2021-11-15T01:16:21.680Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-1048 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-1048</link>
+    <pubDate>2021-11-17T22:17:58.403Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
