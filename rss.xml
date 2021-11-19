@@ -708,5 +708,11 @@
     <pubDate>2021-11-19T14:16:45.064Z</pubDate>
     </item>
     
+    <item>
+    <title>FPSA006 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/FPSA006</link>
+    <pubDate>2021-11-19T18:20:55.743Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
