@@ -696,5 +696,17 @@
     <pubDate>2021-11-17T22:17:58.403Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2019-7481 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-7481</link>
+    <pubDate>2021-11-19T14:16:45.064Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-22204 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-22204</link>
+    <pubDate>2021-11-19T14:16:45.064Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
