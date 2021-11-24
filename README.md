@@ -1,4 +1,4 @@
-# Use the verified, up-to-date data of [inthewild.io](https://inthewild.io) directly
+# Use the verified, up-to-date data of [inthewild.io](https://inthewild.io) directly, everything is free to use Apache 2.0
 inTheWild is a community driven database and platform to help your vulnerability triage.  
 If you just need the exploitation information don't waste your time here, hit [inthewild.io/api/exploited](https://inthewild.io/api/exploited) this export includes all vulnerability data, exploits and exploitation reports
 ## Who? How?
@@ -17,7 +17,7 @@ It is not the 90s grandpa, stop installing utils writen by 3 randos! Use docker
 - _hey man, your table is dope but I heard JSON is cooler!_: `docker run inthewild/inthewild reports CVE-2021-30666 --no-format-cli`
 - _this is confusing_: you may always add `--help` if you are getting lost
 ## How can I help out?
-- Contribute with reports of exploitation inTheWild or exploits you miss something
+- Contribute with reports of exploitation inTheWild or exploits you miss something by [tweeting at us](https://twitter.com/4lreadytekken/status/1463474094947581955), [mentioning us](https://twitter.com/4lreadytekken/status/1463472525036474371) or using our [submission form](https://inthewild.io/contribute) 
 - Help triage said reports
 - Send PR for your usecase
 - Buy us a coffee
