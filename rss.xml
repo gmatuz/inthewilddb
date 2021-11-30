@@ -714,5 +714,11 @@
     <pubDate>2021-11-19T18:20:55.743Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-0920 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-0920</link>
+    <pubDate>2021-11-30T16:32:08.504Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
