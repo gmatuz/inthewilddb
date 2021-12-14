@@ -744,5 +744,11 @@
     <pubDate>2021-12-13T20:19:43.467Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-43890 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-43890</link>
+    <pubDate>2021-12-14T18:21:36.315Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
