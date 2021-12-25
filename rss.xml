@@ -750,5 +750,11 @@
     <pubDate>2021-12-14T18:21:36.315Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-45461 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-45461</link>
+    <pubDate>2021-12-25T19:14:35.943Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
