@@ -762,5 +762,11 @@
     <pubDate>2022-01-14T03:20:35.021Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2013-3900 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2013-3900</link>
+    <pubDate>2022-01-21T22:17:25.608Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
