@@ -774,5 +774,11 @@
     <pubDate>2022-01-26T23:17:58.625Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-22620 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-22620</link>
+    <pubDate>2022-02-10T20:17:55.862Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
