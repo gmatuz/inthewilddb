@@ -780,5 +780,11 @@
     <pubDate>2022-02-10T20:17:55.862Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-0609 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-0609</link>
+    <pubDate>2022-02-14T21:13:40.250Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
