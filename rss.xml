@@ -786,5 +786,29 @@
     <pubDate>2022-02-14T21:13:40.250Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-35247 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-35247</link>
+    <pubDate>2022-02-18T22:18:47.749Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-24682 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-24682</link>
+    <pubDate>2022-02-18T22:18:47.749Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-24086 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-24086</link>
+    <pubDate>2022-02-18T22:18:47.749Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-25335 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-25335</link>
+    <pubDate>2022-02-18T22:18:47.749Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
