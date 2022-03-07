@@ -810,5 +810,11 @@
     <pubDate>2022-02-18T22:18:47.749Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-26486 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-26486</link>
+    <pubDate>2022-03-07T16:27:01.169Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
