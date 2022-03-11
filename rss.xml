@@ -822,5 +822,11 @@
     <pubDate>2022-03-07T20:19:24.517Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-26143 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-26143</link>
+    <pubDate>2022-03-11T04:26:00.166Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
