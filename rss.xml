@@ -828,5 +828,11 @@
     <pubDate>2022-03-11T04:26:00.166Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-1096 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-1096</link>
+    <pubDate>2022-03-25T19:16:01.949Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
