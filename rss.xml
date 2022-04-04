@@ -846,5 +846,11 @@
     <pubDate>2022-04-04T15:26:07.615Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-26871 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-26871</link>
+    <pubDate>2022-04-04T16:29:21.651Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
