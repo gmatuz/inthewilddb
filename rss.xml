@@ -834,5 +834,17 @@
     <pubDate>2022-03-25T19:16:01.949Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-22674 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-22674</link>
+    <pubDate>2022-04-04T15:26:07.615Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-22675 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-22675</link>
+    <pubDate>2022-04-04T15:26:07.615Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
