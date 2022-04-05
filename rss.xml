@@ -852,5 +852,17 @@
     <pubDate>2022-04-04T16:29:21.651Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-22600 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-22600</link>
+    <pubDate>2022-04-05T20:22:08.478Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-39793 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-39793</link>
+    <pubDate>2022-04-05T20:22:08.478Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
