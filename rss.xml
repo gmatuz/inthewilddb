@@ -870,5 +870,11 @@
     <pubDate>2022-04-12T17:22:52.011Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-1364 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-1364</link>
+    <pubDate>2022-04-14T21:18:14.479Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
