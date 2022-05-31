@@ -882,5 +882,11 @@
     <pubDate>2022-05-10T17:28:31.302Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-30190 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-30190</link>
+    <pubDate>2022-05-31T01:49:07.556Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
