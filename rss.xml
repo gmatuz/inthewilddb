@@ -888,5 +888,11 @@
     <pubDate>2022-05-31T01:49:07.556Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-26134 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-26134</link>
+    <pubDate>2022-06-03T13:32:33.629Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
