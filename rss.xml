@@ -894,5 +894,11 @@
     <pubDate>2022-06-03T13:32:33.629Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-1040 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-1040</link>
+    <pubDate>2022-06-23T18:25:34.116Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
