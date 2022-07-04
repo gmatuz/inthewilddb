@@ -900,5 +900,11 @@
     <pubDate>2022-06-23T18:25:34.116Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-2294 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-2294</link>
+    <pubDate>2022-07-04T18:25:05.476Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
