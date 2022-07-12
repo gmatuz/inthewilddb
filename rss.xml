@@ -906,5 +906,11 @@
     <pubDate>2022-07-04T18:25:05.476Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-22047 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-22047</link>
+    <pubDate>2022-07-12T17:23:07.271Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
