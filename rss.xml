@@ -912,5 +912,11 @@
     <pubDate>2022-07-12T17:23:07.271Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-24284 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-24284</link>
+    <pubDate>2022-07-19T12:42:09.407Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
