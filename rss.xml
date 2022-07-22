@@ -1086,5 +1086,11 @@
     <pubDate>2022-07-20T01:53:53.167Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-36408 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-36408</link>
+    <pubDate>2022-07-22T23:19:24.351Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
