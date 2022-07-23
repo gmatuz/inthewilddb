@@ -1092,5 +1092,11 @@
     <pubDate>2022-07-22T23:19:24.351Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-26138 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-26138</link>
+    <pubDate>2022-07-23T23:19:06.616Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
