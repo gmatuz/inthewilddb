@@ -1404,5 +1404,11 @@
     <pubDate>2022-07-24T22:18:42.828Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-33891 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-33891</link>
+    <pubDate>2022-07-31T21:19:04.610Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
