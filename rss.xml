@@ -1410,5 +1410,11 @@
     <pubDate>2022-07-31T21:19:04.610Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-27924 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-27924</link>
+    <pubDate>2022-08-05T19:17:10.864Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
