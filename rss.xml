@@ -1416,5 +1416,11 @@
     <pubDate>2022-08-05T19:17:10.864Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-34713 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-34713</link>
+    <pubDate>2022-08-09T17:22:16.190Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
