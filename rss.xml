@@ -1422,5 +1422,11 @@
     <pubDate>2022-08-09T17:22:16.190Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-30333 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-30333</link>
+    <pubDate>2022-08-10T03:07:26.718Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
