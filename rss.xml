@@ -1440,5 +1440,11 @@
     <pubDate>2022-08-12T17:02:22.950Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-0028 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-0028</link>
+    <pubDate>2022-08-13T15:20:23.130Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
