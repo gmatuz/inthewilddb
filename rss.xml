@@ -1452,5 +1452,11 @@
     <pubDate>2022-08-16T21:18:54.750Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-32894 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-32894</link>
+    <pubDate>2022-08-17T23:20:35.847Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
