@@ -1614,5 +1614,11 @@
     <pubDate>2022-08-26T15:23:04.540Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-3075 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-3075</link>
+    <pubDate>2022-09-02T22:21:06.744Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
