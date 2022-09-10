@@ -1644,5 +1644,11 @@
     <pubDate>2022-09-10T13:35:11.785Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2018-6530 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2018-6530</link>
+    <pubDate>2022-09-10T16:28:38.285Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
