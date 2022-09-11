@@ -1650,5 +1650,17 @@
     <pubDate>2022-09-10T16:28:38.285Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-3493 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-3493</link>
+    <pubDate>2022-09-11T16:28:30.958Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-31474 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31474</link>
+    <pubDate>2022-09-11T16:28:30.958Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
