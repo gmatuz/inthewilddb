@@ -1662,5 +1662,11 @@
     <pubDate>2022-09-11T16:28:30.958Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-32917 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-32917</link>
+    <pubDate>2022-09-13T10:25:03.468Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
