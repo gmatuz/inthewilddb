@@ -1668,5 +1668,11 @@
     <pubDate>2022-09-13T10:25:03.468Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-37969 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-37969</link>
+    <pubDate>2022-09-13T17:31:13.180Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
