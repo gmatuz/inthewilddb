@@ -1674,5 +1674,17 @@
     <pubDate>2022-09-13T17:31:13.180Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-3180 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-3180</link>
+    <pubDate>2022-09-14T13:53:45.524Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-40139 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-40139</link>
+    <pubDate>2022-09-14T13:53:45.524Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
