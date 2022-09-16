@@ -1686,5 +1686,11 @@
     <pubDate>2022-09-14T13:53:45.524Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-40734 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-40734</link>
+    <pubDate>2022-09-16T07:30:34.548Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
