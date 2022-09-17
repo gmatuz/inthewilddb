@@ -1692,5 +1692,11 @@
     <pubDate>2022-09-16T07:30:34.548Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-31446 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31446</link>
+    <pubDate>2022-09-17T12:38:18.384Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
