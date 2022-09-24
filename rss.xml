@@ -1704,5 +1704,11 @@
     <pubDate>2022-09-23T16:33:55.124Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-3236 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-3236</link>
+    <pubDate>2022-09-24T14:19:56.800Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
