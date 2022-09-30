@@ -1710,5 +1710,23 @@
     <pubDate>2022-09-24T14:19:56.800Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-36804 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-36804</link>
+    <pubDate>2022-09-30T20:26:23.411Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-41040 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-41040</link>
+    <pubDate>2022-09-30T20:26:23.411Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-41082 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-41082</link>
+    <pubDate>2022-09-30T20:26:23.411Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
