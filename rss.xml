@@ -1728,5 +1728,11 @@
     <pubDate>2022-09-30T20:26:23.411Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-35914 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-35914</link>
+    <pubDate>2022-10-06T15:28:31.320Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
