@@ -1734,5 +1734,17 @@
     <pubDate>2022-10-06T15:28:31.320Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-41352 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-41352</link>
+    <pubDate>2022-10-08T20:24:08.843Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2019-16098 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-16098</link>
+    <pubDate>2022-10-08T20:24:08.843Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
