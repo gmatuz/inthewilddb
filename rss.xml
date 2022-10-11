@@ -1746,5 +1746,11 @@
     <pubDate>2022-10-08T20:24:08.843Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-41033 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-41033</link>
+    <pubDate>2022-10-11T17:33:09.062Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
