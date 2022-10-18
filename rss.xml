@@ -1759,9 +1759,9 @@
     </item>
     
     <item>
-    <title>CVE-2022-42948 is getting exploited in the wild</title>
+    <title>Correction regarding CVE-2022-42948: we do NOT have information about exploitation of the vulnerability, sorry for the misunderstanding</title>
     <link>https://inthewild.io/vuln/CVE-2022-42948</link>
-    <pubDate>2022-10-18T10:28:39.412Z</pubDate>
+    <pubDate>2022-10-18T11:28:39.412Z</pubDate>
     </item>
     
  </channel>
