@@ -1764,5 +1764,11 @@
     <pubDate>2022-10-18T11:28:39.412Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-42827 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-42827</link>
+    <pubDate>2022-10-25T06:20:06.847Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
