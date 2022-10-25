@@ -1770,5 +1770,17 @@
     <pubDate>2022-10-25T06:20:06.847Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2020-3153 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-3153</link>
+    <pubDate>2022-10-25T08:39:42.867Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2020-3433 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-3433</link>
+    <pubDate>2022-10-25T08:39:42.867Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
