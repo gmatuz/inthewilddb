@@ -1782,5 +1782,11 @@
     <pubDate>2022-10-25T08:39:42.867Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-3723 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-3723</link>
+    <pubDate>2022-10-27T21:20:16.041Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
