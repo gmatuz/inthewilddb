@@ -1812,5 +1812,11 @@
     <pubDate>2022-11-08T18:31:06.332Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2019-9810 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-9810</link>
+    <pubDate>2022-11-09T18:26:07.989Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
