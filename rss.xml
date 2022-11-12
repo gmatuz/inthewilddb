@@ -1818,5 +1818,11 @@
     <pubDate>2022-11-09T18:26:07.989Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-41049 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-41049</link>
+    <pubDate>2022-11-12T01:48:12.379Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
