@@ -1854,5 +1854,11 @@
     <pubDate>2022-11-18T06:26:13.564Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-4135 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-4135</link>
+    <pubDate>2022-11-24T18:23:56.751Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
