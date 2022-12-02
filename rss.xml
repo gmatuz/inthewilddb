@@ -1884,5 +1884,11 @@
     <pubDate>2022-12-02T17:15:40.855Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-4262 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-4262</link>
+    <pubDate>2022-12-02T20:18:19.252Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
