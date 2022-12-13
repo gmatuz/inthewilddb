@@ -1890,5 +1890,11 @@
     <pubDate>2022-12-02T20:18:19.252Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-44698 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-44698</link>
+    <pubDate>2022-12-13T18:22:18.659Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
