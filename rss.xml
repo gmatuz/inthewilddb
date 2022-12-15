@@ -1920,5 +1920,17 @@
     <pubDate>2022-12-13T21:16:11.055Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-31199 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31199</link>
+    <pubDate>2022-12-15T12:33:38.686Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-42856 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-42856</link>
+    <pubDate>2022-12-15T12:33:38.686Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
