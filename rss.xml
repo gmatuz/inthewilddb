@@ -2010,5 +2010,17 @@
     <pubDate>2022-12-31T12:28:30.578Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2017-17105 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2017-17105</link>
+    <pubDate>2023-01-01T10:16:56.055Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-45359 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-45359</link>
+    <pubDate>2023-01-01T10:16:56.055Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
