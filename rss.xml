@@ -2022,5 +2022,23 @@
     <pubDate>2023-01-01T10:16:56.055Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2016-10972 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2016-10972</link>
+    <pubDate>2023-01-02T10:18:08.003Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2019-17232 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-17232</link>
+    <pubDate>2023-01-02T10:18:08.003Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2019-17233 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-17233</link>
+    <pubDate>2023-01-02T10:18:08.003Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
