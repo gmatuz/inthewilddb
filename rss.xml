@@ -2040,5 +2040,17 @@
     <pubDate>2023-01-02T10:18:08.003Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2017-17106 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2017-17106</link>
+    <pubDate>2023-01-02T20:16:55.446Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2018-12613 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2018-12613</link>
+    <pubDate>2023-01-02T20:16:55.446Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
