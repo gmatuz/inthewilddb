@@ -2052,5 +2052,11 @@
     <pubDate>2023-01-02T20:16:55.446Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-42458 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-42458</link>
+    <pubDate>2023-01-04T17:18:36.799Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
