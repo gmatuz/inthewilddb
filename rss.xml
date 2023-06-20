@@ -2406,5 +2406,11 @@
     <pubDate>2023-06-19T23:16:27.550Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-20887 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-20887</link>
+    <pubDate>2023-06-20T22:53:27.878Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
