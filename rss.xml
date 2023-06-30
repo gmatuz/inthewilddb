@@ -2460,5 +2460,17 @@
     <pubDate>2023-06-23T21:16:22.891Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2019-17621 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-17621</link>
+    <pubDate>2023-06-30T01:39:15.592Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2019-20500 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2019-20500</link>
+    <pubDate>2023-06-30T01:39:15.592Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
