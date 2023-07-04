@@ -2472,5 +2472,11 @@
     <pubDate>2023-06-30T01:39:15.592Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-3460 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-3460</link>
+    <pubDate>2023-07-04T23:17:03.290Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
