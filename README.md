@@ -1,6 +1,7 @@
 # Use the verified, up-to-date data of [inthewild.io](https://inthewild.io) directly, everything is free to use Apache 2.0
 inTheWild is a community driven database and platform to help your vulnerability triage.  
-If you just need the exploitation information don't waste your time here, hit [inthewild.io/api/exploited](https://inthewild.io/api/exploited) this export includes all vulnerability data, exploits and exploitation reports
+If you just need the exploitation information don't waste your time here, hit [inthewild.io/api/exploited](https://inthewild.io/api/exploited) this export includes all vulnerability data, exploits and exploitation reports  
+**You can download the database from: [https://pub-4c1eae2a180542b19ea7c88f1e4ccf07.r2.dev/inthewild.db](https://pub-4c1eae2a180542b19ea7c88f1e4ccf07.r2.dev/inthewild.db)**
 ## Who? How?
 Information here can be useful for you if you are 
 - In ops or vulnerability management and you want to know when to panic: sign up to RSS feed and add it to you notification list (e.g. Slack channel)
