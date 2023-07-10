@@ -2478,5 +2478,11 @@
     <pubDate>2023-07-04T23:17:03.290Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-37450 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-37450</link>
+    <pubDate>2023-07-10T19:15:18.376Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
