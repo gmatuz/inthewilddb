@@ -2484,5 +2484,41 @@
     <pubDate>2023-07-10T19:15:18.376Z</pubDate>
     </item>
     
+    <item>
+    <title>ADV230001 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/ADV230001</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-32046 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-32046</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-32049 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-32049</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-35311 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-35311</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-36874 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-36874</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-36884 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-36884</link>
+    <pubDate>2023-07-11T17:16:03.871Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
