@@ -2520,5 +2520,11 @@
     <pubDate>2023-07-11T17:16:03.871Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-29256 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-29256</link>
+    <pubDate>2023-07-11T23:16:32.247Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
