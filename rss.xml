@@ -2526,5 +2526,11 @@
     <pubDate>2023-07-11T23:16:32.247Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-38198 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-38198</link>
+    <pubDate>2023-07-13T07:17:04.438Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
