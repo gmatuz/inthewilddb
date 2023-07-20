@@ -2550,5 +2550,11 @@
     <pubDate>2023-07-20T19:13:22.338Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-29298 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-29298</link>
+    <pubDate>2023-07-20T20:17:22.060Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
