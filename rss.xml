@@ -2544,5 +2544,11 @@
     <pubDate>2023-07-19T10:17:51.662Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-38205 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-38205</link>
+    <pubDate>2023-07-20T19:13:22.338Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
