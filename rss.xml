@@ -2568,5 +2568,11 @@
     <pubDate>2023-07-22T10:16:35.457Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2020-10173 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-10173</link>
+    <pubDate>2023-07-23T08:18:12.570Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
