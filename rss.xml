@@ -2586,5 +2586,11 @@
     <pubDate>2023-07-25T20:16:13.103Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-37580 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-37580</link>
+    <pubDate>2023-07-27T20:16:23.189Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
