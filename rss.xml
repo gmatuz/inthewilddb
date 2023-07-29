@@ -2592,5 +2592,11 @@
     <pubDate>2023-07-27T20:16:23.189Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-35081 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-35081</link>
+    <pubDate>2023-07-29T21:12:24.338Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
