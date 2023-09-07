@@ -2664,5 +2664,11 @@
     <pubDate>2023-09-01T07:15:16.171Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-35674 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-35674</link>
+    <pubDate>2023-09-07T11:13:11.854Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
