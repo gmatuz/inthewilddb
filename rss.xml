@@ -2670,5 +2670,17 @@
     <pubDate>2023-09-07T11:13:11.854Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-41061 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-41061</link>
+    <pubDate>2023-09-07T18:19:30.092Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-41064 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-41064</link>
+    <pubDate>2023-09-07T18:19:30.092Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
