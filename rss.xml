@@ -2688,5 +2688,11 @@
     <pubDate>2023-09-11T17:15:41.255Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-4863 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-4863</link>
+    <pubDate>2023-09-11T18:20:47.647Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
