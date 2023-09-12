@@ -2700,5 +2700,17 @@
     <pubDate>2023-09-12T07:15:17.255Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-36761 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-36761</link>
+    <pubDate>2023-09-12T20:17:00.650Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-36802 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-36802</link>
+    <pubDate>2023-09-12T20:17:00.650Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
