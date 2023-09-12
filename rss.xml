@@ -2694,5 +2694,11 @@
     <pubDate>2023-09-11T18:20:47.647Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-41990 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-41990</link>
+    <pubDate>2023-09-12T07:15:17.255Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
