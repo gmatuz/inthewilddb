@@ -2712,5 +2712,11 @@
     <pubDate>2023-09-12T20:17:00.650Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-22265 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-22265</link>
+    <pubDate>2023-09-14T08:19:22.197Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
