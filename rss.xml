@@ -2718,5 +2718,11 @@
     <pubDate>2023-09-14T08:19:22.197Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-26369 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-26369</link>
+    <pubDate>2023-09-15T07:14:17.967Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
