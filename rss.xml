@@ -2724,5 +2724,29 @@
     <pubDate>2023-09-15T07:14:17.967Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-31459 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31459</link>
+    <pubDate>2023-09-18T22:14:42.625Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-31461 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31461</link>
+    <pubDate>2023-09-18T22:14:42.625Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-31462 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31462</link>
+    <pubDate>2023-09-18T22:14:42.625Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-31463 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-31463</link>
+    <pubDate>2023-09-18T22:14:42.625Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
