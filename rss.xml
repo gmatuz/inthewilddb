@@ -2748,5 +2748,17 @@
     <pubDate>2023-09-18T22:14:42.625Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-28434 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-28434</link>
+    <pubDate>2023-09-20T11:14:08.785Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-3892 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-3892</link>
+    <pubDate>2023-09-20T11:14:08.785Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
