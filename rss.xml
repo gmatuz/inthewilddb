@@ -2784,5 +2784,11 @@
     <pubDate>2023-09-21T19:13:28.870Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-41179 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-41179</link>
+    <pubDate>2023-09-21T20:16:28.786Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
