@@ -2790,5 +2790,11 @@
     <pubDate>2023-09-21T20:16:28.786Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-4762 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-4762</link>
+    <pubDate>2023-09-23T16:18:55.291Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
