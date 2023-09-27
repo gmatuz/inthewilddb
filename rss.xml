@@ -2796,5 +2796,11 @@
     <pubDate>2023-09-23T16:18:55.291Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-5129 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-5129</link>
+    <pubDate>2023-09-27T16:20:08.901Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
