@@ -2826,5 +2826,17 @@
     <pubDate>2023-10-04T05:14:16.293Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-28229 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-28229</link>
+    <pubDate>2023-10-04T18:20:12.123Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-42793 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-42793</link>
+    <pubDate>2023-10-04T18:20:12.123Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
