@@ -2892,5 +2892,17 @@
     <pubDate>2023-10-10T17:13:21.170Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-21608 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-21608</link>
+    <pubDate>2023-10-11T07:15:06.486Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-30801 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-30801</link>
+    <pubDate>2023-10-11T07:15:06.486Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
