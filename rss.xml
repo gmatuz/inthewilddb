@@ -2964,5 +2964,11 @@
     <pubDate>2023-10-12T12:30:32.216Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-20198 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-20198</link>
+    <pubDate>2023-10-16T22:15:58.096Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
