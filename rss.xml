@@ -2970,5 +2970,11 @@
     <pubDate>2023-10-16T22:15:58.096Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-5360 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-5360</link>
+    <pubDate>2023-10-17T15:18:02.334Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
