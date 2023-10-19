@@ -2982,5 +2982,11 @@
     <pubDate>2023-10-18T18:22:15.668Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-1435 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-1435</link>
+    <pubDate>2023-10-19T20:17:34.817Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
