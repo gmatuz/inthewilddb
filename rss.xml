@@ -2988,5 +2988,11 @@
     <pubDate>2023-10-19T20:17:34.817Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-20273 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-20273</link>
+    <pubDate>2023-10-21T21:12:52.416Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
