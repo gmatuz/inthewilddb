@@ -2994,5 +2994,17 @@
     <pubDate>2023-10-21T21:12:52.416Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-5631 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-5631</link>
+    <pubDate>2023-10-27T09:16:02.218Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-31418 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-31418</link>
+    <pubDate>2023-10-27T09:16:02.218Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
