@@ -3018,5 +3018,11 @@
     <pubDate>2023-11-01T17:15:30.903Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-46604 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-46604</link>
+    <pubDate>2023-11-02T18:20:34.399Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
