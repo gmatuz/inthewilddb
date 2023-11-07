@@ -3030,5 +3030,11 @@
     <pubDate>2023-11-05T21:13:34.554Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-22518 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-22518</link>
+    <pubDate>2023-11-07T19:12:56.877Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
