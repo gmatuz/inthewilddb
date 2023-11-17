@@ -3126,5 +3126,17 @@
     <pubDate>2023-11-15T16:21:55.536Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-1671 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-1671</link>
+    <pubDate>2023-11-17T12:30:37.015Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-36584 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-36584</link>
+    <pubDate>2023-11-17T12:30:37.015Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
