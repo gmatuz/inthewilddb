@@ -3140,7 +3140,7 @@
     
     <item>
     <title>CVE-2023-6345  is getting exploited in the wild</title>
-    <link>https://inthewild.io/vuln/CVE-2023-6345 </link>
+    <link>https://inthewild.io/vuln/CVE-2023-6345</link>
     <pubDate>2023-11-30T13:22:32.158Z</pubDate>
     </item>
     
@@ -3148,6 +3148,12 @@
     <title>CVE-2023-6345 is getting exploited in the wild</title>
     <link>https://inthewild.io/vuln/CVE-2023-6345</link>
     <pubDate>2023-11-30T13:22:32.158Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-6345  is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-6345 </link>
+    <pubDate>2023-11-30T14:14:57.264Z</pubDate>
     </item>
     
  </channel>
