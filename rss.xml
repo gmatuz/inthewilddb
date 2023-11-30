@@ -3150,5 +3150,17 @@
     <pubDate>2023-11-30T17:15:21.947Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-42916 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-42916</link>
+    <pubDate>2023-11-30T22:16:37.794Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-42917 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-42917</link>
+    <pubDate>2023-11-30T22:16:37.794Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
