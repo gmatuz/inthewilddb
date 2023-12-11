@@ -3180,5 +3180,11 @@
     <pubDate>2023-12-01T13:20:21.658Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-50428 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-50428</link>
+    <pubDate>2023-12-11T10:18:23.600Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
