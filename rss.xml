@@ -3186,5 +3186,11 @@
     <pubDate>2023-12-11T10:18:23.600Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-6448 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-6448</link>
+    <pubDate>2023-12-11T20:19:05.116Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
