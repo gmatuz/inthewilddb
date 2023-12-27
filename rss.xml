@@ -3216,5 +3216,11 @@
     <pubDate>2023-12-20T18:21:10.215Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-7102 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-7102</link>
+    <pubDate>2023-12-27T16:20:18.605Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
