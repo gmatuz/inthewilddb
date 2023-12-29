@@ -3222,5 +3222,11 @@
     <pubDate>2023-12-27T16:20:18.605Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-49070 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-49070</link>
+    <pubDate>2023-12-29T14:14:14.923Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
