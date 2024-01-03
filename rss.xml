@@ -3228,5 +3228,11 @@
     <pubDate>2023-12-29T14:14:14.923Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-7101 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-7101</link>
+    <pubDate>2024-01-03T12:29:34.460Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
