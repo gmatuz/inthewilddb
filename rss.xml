@@ -3234,5 +3234,23 @@
     <pubDate>2024-01-03T12:29:34.460Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-27524 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-27524</link>
+    <pubDate>2024-01-09T08:21:49.471Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-29300 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-29300</link>
+    <pubDate>2024-01-09T08:21:49.471Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-38203 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-38203</link>
+    <pubDate>2024-01-09T08:21:49.471Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
