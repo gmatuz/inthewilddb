@@ -3300,5 +3300,11 @@
     <pubDate>2024-01-18T21:16:36.374Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-23222 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-23222</link>
+    <pubDate>2024-01-22T20:17:25.772Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
