@@ -3318,5 +3318,11 @@
     <pubDate>2024-01-23T10:18:24.086Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-48618 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-48618</link>
+    <pubDate>2024-01-31T20:06:29.410Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
