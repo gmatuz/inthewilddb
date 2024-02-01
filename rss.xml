@@ -3324,5 +3324,11 @@
     <pubDate>2024-01-31T20:06:29.410Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-21893 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-21893</link>
+    <pubDate>2024-02-01T16:06:45.822Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
