@@ -3330,5 +3330,17 @@
     <pubDate>2024-02-01T16:06:45.822Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-21351 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-21351</link>
+    <pubDate>2024-02-13T18:07:54.278Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-21412 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-21412</link>
+    <pubDate>2024-02-13T18:07:54.278Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
