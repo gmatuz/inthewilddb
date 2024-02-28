@@ -3354,5 +3354,11 @@
     <pubDate>2024-02-14T22:07:32.268Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-21338 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-21338</link>
+    <pubDate>2024-02-28T19:06:50.825Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
