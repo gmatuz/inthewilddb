@@ -3438,5 +3438,17 @@
     <pubDate>2024-03-29T06:07:32.011Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-44529 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-44529</link>
+    <pubDate>2024-03-29T11:07:01.705Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2023-48788 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-48788</link>
+    <pubDate>2024-03-29T11:07:01.705Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
