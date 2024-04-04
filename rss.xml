@@ -3450,5 +3450,17 @@
     <pubDate>2024-03-29T11:07:01.705Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-29745 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-29745</link>
+    <pubDate>2024-04-04T10:05:36.395Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-29748 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-29748</link>
+    <pubDate>2024-04-04T10:05:36.395Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
