@@ -3462,5 +3462,11 @@
     <pubDate>2024-04-04T10:05:36.395Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-20720 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-20720</link>
+    <pubDate>2024-04-09T11:05:24.678Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
