@@ -3522,5 +3522,29 @@
     <pubDate>2024-04-22T12:08:14.843Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2022-38028 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-38028</link>
+    <pubDate>2024-04-30T16:09:02.659Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-20353 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-20353</link>
+    <pubDate>2024-04-30T16:09:02.659Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-20359 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-20359</link>
+    <pubDate>2024-04-30T16:09:02.659Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-4040 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4040</link>
+    <pubDate>2024-04-30T16:09:02.659Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
