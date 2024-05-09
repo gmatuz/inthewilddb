@@ -3546,5 +3546,11 @@
     <pubDate>2024-04-30T16:09:02.659Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-4671 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4671</link>
+    <pubDate>2024-05-09T21:06:50.832Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
