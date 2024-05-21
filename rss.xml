@@ -3740,8 +3740,14 @@
     
     <item>
     <title>CVE-2020-9480  is getting exploited in the wild</title>
-    <link>https://inthewild.io/vuln/CVE-2020-9480 </link>
+    <link>https://inthewild.io/vuln/CVE-2020-9480</link>
     <pubDate>2024-05-21T00:19:27.139Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2020-9480  is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-9480 </link>
+    <pubDate>2024-05-21T01:29:49.296Z</pubDate>
     </item>
     
  </channel>
