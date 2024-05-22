@@ -3690,5 +3690,17 @@
     <pubDate>2024-05-20T15:07:14.483Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-43208 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-43208</link>
+    <pubDate>2024-05-22T21:07:40.137Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-47337 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-47337</link>
+    <pubDate>2024-05-22T21:07:40.137Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
