@@ -3726,5 +3726,11 @@
     <pubDate>2024-05-30T16:06:54.865Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-4610 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4610</link>
+    <pubDate>2024-06-11T08:08:01.845Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
