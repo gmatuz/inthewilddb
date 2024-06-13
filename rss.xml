@@ -3732,5 +3732,11 @@
     <pubDate>2024-06-11T08:08:01.845Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-32896 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-32896</link>
+    <pubDate>2024-06-13T09:07:07.246Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
