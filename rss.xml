@@ -3738,5 +3738,23 @@
     <pubDate>2024-06-13T09:07:07.246Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-4577 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4577</link>
+    <pubDate>2024-06-15T16:07:12.718Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-26169 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-26169</link>
+    <pubDate>2024-06-15T16:07:12.718Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-4358 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4358</link>
+    <pubDate>2024-06-15T16:07:12.718Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
