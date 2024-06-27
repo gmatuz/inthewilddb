@@ -3762,5 +3762,17 @@
     <pubDate>2024-06-25T13:07:20.574Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2020-13965 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2020-13965</link>
+    <pubDate>2024-06-27T11:05:56.092Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-24816 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2022-24816</link>
+    <pubDate>2024-06-27T11:05:56.092Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
