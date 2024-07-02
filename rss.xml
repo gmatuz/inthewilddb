@@ -3774,5 +3774,17 @@
     <pubDate>2024-06-27T11:05:56.092Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-28200 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-28200</link>
+    <pubDate>2024-07-02T18:08:13.098Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-20399 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-20399</link>
+    <pubDate>2024-07-02T18:08:13.098Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
