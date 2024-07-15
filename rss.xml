@@ -3786,5 +3786,11 @@
     <pubDate>2024-07-02T18:08:13.098Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-38080 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38080</link>
+    <pubDate>2024-07-15T06:07:25.313Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
