@@ -3834,5 +3834,11 @@
     <pubDate>2024-07-17T17:06:37.027Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-36971 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-36971</link>
+    <pubDate>2024-08-06T10:06:04.891Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
