@@ -3840,5 +3840,23 @@
     <pubDate>2024-08-06T10:06:04.891Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2023-45249 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2023-45249</link>
+    <pubDate>2024-08-07T09:06:55.385Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-4879 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-4879</link>
+    <pubDate>2024-08-07T09:06:55.385Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-5217 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-5217</link>
+    <pubDate>2024-08-07T09:06:55.385Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
