@@ -3882,5 +3882,35 @@
     <pubDate>2024-08-09T13:08:01.999Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-38106 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38106</link>
+    <pubDate>2024-08-15T12:09:58.745Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-38107 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38107</link>
+    <pubDate>2024-08-15T12:09:58.745Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-38178 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38178</link>
+    <pubDate>2024-08-15T12:09:58.745Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-38189 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38189</link>
+    <pubDate>2024-08-15T12:09:58.745Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-38193 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-38193</link>
+    <pubDate>2024-08-15T12:09:58.745Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
