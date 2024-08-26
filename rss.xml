@@ -3918,5 +3918,11 @@
     <pubDate>2024-08-21T20:07:35.456Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-7965 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-7965</link>
+    <pubDate>2024-08-26T21:06:43.551Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
