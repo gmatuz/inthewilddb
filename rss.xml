@@ -3978,5 +3978,29 @@
     <pubDate>2024-09-03T12:09:14.666Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2021-20123 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-20123</link>
+    <pubDate>2024-09-09T06:09:34.885Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-20124 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2021-20124</link>
+    <pubDate>2024-09-09T06:09:34.885Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-7262 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-7262</link>
+    <pubDate>2024-09-09T06:09:34.885Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-45389 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-45389</link>
+    <pubDate>2024-09-09T06:09:34.885Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
