@@ -4128,5 +4128,17 @@
     <pubDate>2024-10-08T18:09:01.710Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-43047 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-43047</link>
+    <pubDate>2024-10-21T14:06:37.714Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-9680 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-9680</link>
+    <pubDate>2024-10-21T14:06:37.714Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
