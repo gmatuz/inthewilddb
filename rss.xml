@@ -4224,5 +4224,11 @@
     <pubDate>2024-10-23T08:08:45.141Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-44068 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-44068</link>
+    <pubDate>2024-10-24T08:10:01.890Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
