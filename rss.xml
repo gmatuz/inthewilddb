@@ -4466,7 +4466,7 @@
     
     <item>
     <title>CVE-2024- 29973  is getting exploited in the wild</title>
-    <link>https://inthewild.io/vuln/CVE-2024- 29973 </link>
+    <link>https://inthewild.io/vuln/CVE-2024- 29973</link>
     <pubDate>2024-11-05T13:09:34.910Z</pubDate>
     </item>
     
@@ -4480,6 +4480,12 @@
     <title>CVE-2024-8957 is getting exploited in the wild</title>
     <link>https://inthewild.io/vuln/CVE-2024-8957</link>
     <pubDate>2024-11-05T13:09:34.910Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024- 29973  is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024- 29973 </link>
+    <pubDate>2024-11-05T14:06:55.594Z</pubDate>
     </item>
     
  </channel>
