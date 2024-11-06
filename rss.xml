@@ -4598,8 +4598,14 @@
     
     <item>
     <title>CVE-2024- 29973  is getting exploited in the wild</title>
-    <link>https://inthewild.io/vuln/CVE-2024- 29973 </link>
+    <link>https://inthewild.io/vuln/CVE-2024- 29973</link>
     <pubDate>2024-11-06T09:08:36.379Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024- 29973  is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024- 29973 </link>
+    <pubDate>2024-11-06T10:08:05.254Z</pubDate>
     </item>
     
  </channel>
