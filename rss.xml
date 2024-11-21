@@ -4560,5 +4560,17 @@
     <pubDate>2024-11-19T18:09:56.110Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-44308 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-44308</link>
+    <pubDate>2024-11-21T12:09:54.676Z</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2024-44309 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-44309</link>
+    <pubDate>2024-11-21T12:09:54.676Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
