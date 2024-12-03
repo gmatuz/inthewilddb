@@ -4584,5 +4584,11 @@
     <pubDate>2024-11-30T07:07:43.310Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-21287 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-21287</link>
+    <pubDate>2024-12-03T16:08:10.448Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
