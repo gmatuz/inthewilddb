@@ -4614,5 +4614,11 @@
     <pubDate>2024-12-04T17:07:23.913Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-49138 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-49138</link>
+    <pubDate>2024-12-15T08:07:42.230Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
