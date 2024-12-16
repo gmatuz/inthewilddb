@@ -4620,5 +4620,11 @@
     <pubDate>2024-12-15T08:07:42.230Z</pubDate>
     </item>
     
+    <item>
+    <title>CVE-2024-50623 is getting exploited in the wild</title>
+    <link>https://inthewild.io/vuln/CVE-2024-50623</link>
+    <pubDate>2024-12-16T11:06:45.031Z</pubDate>
+    </item>
+    
  </channel>
 </rss>
